@@ -1,7 +1,5 @@
 # Cruddur - Cloud-Native Social Media Platform
 
-A full-stack social media application built to demonstrate proficiency with AWS cloud services and modern application architecture. This Twitter-like platform features real-time messaging, activity feeds, and user interactions, deployed using a comprehensive suite of AWS technologies.
-
 ## Architecture Diagram
 
 ![AWS Architecture Diagram](_docs/assets/architecture-diagram.png)
@@ -45,15 +43,6 @@ This project demonstrates:
 - **CI/CD pipeline** implementation
 - **Cloud security** with IAM policies and VPC configuration
 - **Scalable deployment** using load balancers and auto-scaling
-
-## Project Purpose
-
-This application serves as a portfolio piece demonstrating hands-on experience with:
-
-- Designing and deploying production-ready cloud applications
-- Implementing AWS services in real-world scenarios
-- Building secure, scalable, and maintainable cloud infrastructure
-- Full-stack development with modern technologies
 
 ## Key Features
 
