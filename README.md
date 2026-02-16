@@ -2,9 +2,9 @@
 
 A full-stack social media application built to demonstrate proficiency with AWS cloud services and modern application architecture. This Twitter-like platform features real-time messaging, activity feeds, and user interactions, deployed using a comprehensive suite of AWS technologies.
 
-![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
+## Architecture Diagram
 
-![Cruddur Screenshot](_docs/assets/cruddur-screenshot.png)
+![AWS Architecture Diagram](_docs/assets/architecture-diagram.png)
 
 ## Overview
 
